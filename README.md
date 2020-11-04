@@ -1,2 +1,2 @@
-# hello-world
-Just stuff
+# hello-world Hi humans i love programmig
+Follow @akaay20
